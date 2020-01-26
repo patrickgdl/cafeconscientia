@@ -1,0 +1,27 @@
+.header {
+    padding: 2rem 0;
+
+    &__inner {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    &__brand {
+        display: flex;
+        position: relative;
+        width: 4rem;
+        height: 1.5rem; // IE11 compat
+
+        svg {
+            width: 100%;
+            height: auto;
+            vertical-align: bottom;
+            fill: var(--text-color);
+        }
+    }
+
+    @include mq(md) {
+        padding: 3.125rem 0;
+    }
+}

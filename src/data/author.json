@@ -1,0 +1,20 @@
+{
+    "name": "Leonardo Gonçalves",
+    "email": "leofarmufpr@gmail.com",
+    "avatar": "/assets/images/avatar2.jpg",
+    "logo": "/assets/images/logo.png",
+    "social": {
+        "twitter": {
+            "name": "newcrazy0",
+            "url": "https://twitter.com/newcrazy0"
+        },
+        "github": {
+            "name": "newcrazy0",
+            "url": "https://github.com/newcray0"
+        },
+        "instagram": {
+            "name": "instagram",
+            "url": "https://instagram.com/newcrazy0"
+        }
+    }
+}
