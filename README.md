@@ -1,11 +1,8 @@
-# mxb.dev
+# Café Conscientia
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/57999461-2350-4da3-8788-ca4e0e6dcb30/deploy-status)](https://app.netlify.com/sites/mxb/deploys)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cb69a266-c4ab-4309-8203-f5c8562c7b20/deploy-status)](https://app.netlify.com/sites/cafeconscientia/deploys)
 
-Source code for [mxb.dev](https://mxb.dev), my personal website.  
-
-This version is built with [Eleventy](https://www.11ty.io). If you're looking for the previous Jekyll-based site, that repo has moved to [https://github.com/maxboeck/mxb-jekyll](https://github.com/maxboeck/mxb-jekyll)
+Source code for [cafeconscientia.com.br](https://cafeconscientia.com.br), blog website inspired on [mxb.dev](https://mxb.dev) website.  
 
 ## Features
 
