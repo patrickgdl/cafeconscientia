@@ -9,10 +9,10 @@
         <p class="footer__item">
             <strong>&copy;
                 {{ build.timestamp | format('yyyy') }}</strong><br/>
-            <a class="p-name u-url" rel="me" href="{{ site.url }}">Inspired on https://mxb.dev) website.</a>
+            <a class="p-name u-url" rel="me" href="{{ site.url }}">Inspired on https://mxb.dev.</a>
         </p>
 
-        <p class="footer__item">
+        <p class="footer__item">    
             <strong>Contato</strong><br/>
             <a href="mailto:{{ author.email | obfuscate | safe }}" rel="me" class="u-email">
                 {{ author.email | obfuscate | safe }}
@@ -28,8 +28,6 @@
 
         <p class="footer__item">
             <strong>Legal</strong><br/>
-            <a href="https://mxb.dev/privacy/">Política de Privacidade</a>
-            /
             <a href="https://mxb.dev/legal/">Autoria</a>
         </p>
 
