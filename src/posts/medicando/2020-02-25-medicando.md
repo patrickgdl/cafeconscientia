@@ -6,8 +6,6 @@ image: cover.jpg
 description: "Afinal, o que faz um farmacêutico? Como esse profissional é visto no mundo? E no Brasil?"
 ---
 
-# Medicando
-
 Afinal, o que faz um farmacêutico? Como esse profissional é visto no mundo? E no Brasil?
 
 Nem todas essas perguntas possuem apenas uma resposta. O curso, por exemplo, pode ser visto com amor (como é o meu caso), ou com ódio em alguns casos! O que esse profissional faz é delimitado por lei, porém há muitas variáveis, seja pelo ambiente, por outros profissionais que atuem em conjunto, ou mesmo pelo próprio farmacêutico. Já como ele é visto, isso tem milhares de diferenças...
