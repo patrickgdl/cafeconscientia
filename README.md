@@ -11,5 +11,4 @@ Source code for [cafeconscientia.com.br](https://cafeconscientia.com.br), blog w
 * Vanilla JS (ES6 / Babel)
 * System Fonts & FOUT
 * Offline Support w/ Service Worker
-* Auto-publish notes on twitter via AWS Lambda Function
 * Focus on Speed and Accessibility
