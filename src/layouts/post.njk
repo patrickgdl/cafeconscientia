@@ -13,7 +13,7 @@ layout: base
         <h1 id="{{ title | slug }}-title" class="post__title p-name title" itemprop="headline">{{ title }}</h1>
         <div class="post__meta">
 
-            <time class="post__date dt-published" itemprop="datePublished" datetime="{{ page.date | iso }}">{{ page.date | readableDate('dd LLL yyyy') }}</time>
+            <time class="post__date dt-published" itemprop="datePublished" datetime="{{ page.date | iso }}">{{ page.date | readableDate('dd LL yyyy') }}</time>
 
             {% if tags %}
             &sdot; <span class="post__tags p-category">{{ tags | join(', ') }}</span>
@@ -46,7 +46,7 @@ layout: base
         </div>
 
         <p class="post__footer__info">
-            Published in [{{ tags | join(', ') }}] &sdot; {{ page.date | readableDate('dd LLL yyyy') }}
+            Publicado em [{{ tags | join(', ') }}] &sdot; {{ page.date | readableDate('dd LL yyyy') }}
         </p>
 
         <a
@@ -56,19 +56,12 @@ layout: base
             title="Follow {{ author.name }} on Twitter"
             class="btn btn--twitter"
         >
-            {% icon "twitter" %} Follow @{{ author.social.twitter.name }}
+            {% icon "twitter" %} Siga me @{{ author.social.twitter.name }}
         </a>
     </div>
 </article>
 
 <div class="postsection">
-    <h3 class="postsection__title">Other things I've written</h3>
+    <h3 class="postsection__title">Outras coisas que escrevi</h3>
     {% include 'otherposts.njk' %}
 </div>
-
-{# 
-<div class="postsection u-mb2">
-    <h3 class="postsection__title">Featured Blog</h3>
-    {% include 'blogroll.njk' %}
-</div> 
-#}

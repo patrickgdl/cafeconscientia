@@ -4,12 +4,10 @@
   "description": "Blog website built with Eleventy",
   "scripts": {
     "start": "gulp build:dev",
-    "build": "NODE_ENV=production gulp build && yarn run build:lambda",
-    "debug": "DEBUG=Eleventy* yarn start",
+    "build": "NODE_ENV=production gulp build",
+    "debug": "DEBUG=Eleventy* npm run start",
     "serve": "gulp serve",
-    "dev": "gulp dev",
-    "serve:lambda": "netlify-lambda serve _lambda",
-    "build:lambda": "netlify-lambda build _lambda"
+    "dev": "gulp dev"
   },
   "repository": {
     "type": "git",

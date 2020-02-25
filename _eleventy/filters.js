@@ -19,7 +19,7 @@ module.exports = {
         const dt = DateTime.fromJSDate(date, { zone: 'UTC+2' })
         if (!format) {
             format =
-                dt.hour + dt.minute > 0 ? 'dd LLL yyyy - HH:mm' : 'dd LLL yyyy'
+                dt.hour + dt.minute > 0 ? 'dd LL yyyy - HH:mm' : 'dd LL yyyy'
         }
         return dt.toFormat(format)
     },
