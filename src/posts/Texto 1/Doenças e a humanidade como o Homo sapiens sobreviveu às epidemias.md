@@ -2,6 +2,7 @@
 title: "Doenças e a humanidade: como o Homo sapiens sobreviveu às epidemias"
 tags: farmacologia
 slug: doencas-humanidade
+image: Ruas.jpg
 description: "O mundo hoje enfrenta uma pandemia. O que já sabemos sobre?"
 ---
 
