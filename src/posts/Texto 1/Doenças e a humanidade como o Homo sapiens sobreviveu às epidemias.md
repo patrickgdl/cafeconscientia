@@ -1,6 +1,6 @@
 ---
 title: "Doenças e a humanidade: como o Homo sapiens sobreviveu às epidemias"
-tags: farmacologia
+tags: Farmácia
 slug: doencas-humanidade
 image: Ruas.jpg
 description: "O mundo hoje enfrenta uma pandemia. O que já sabemos sobre?"
@@ -15,11 +15,11 @@ Hoje, 31 de março de 2020, há mais de **[800 mil](https://coronavirus.jhu.edu/
 
 Para iniciar a tentativa de responder estas perguntas, é preciso primeiramente entender o que causa uma epidemia, como foram as respostas às que ocorreram no passado e o que as pessoas (e principalmente os governos) fazem ou deixam de fazer que podem influenciar no andamento do quadro. 
 
-O conceito de “doença” presente no dicionário nos traz a seguinte oração:
+O conceito de “doença” presente no dicionário nos traz o seguinte recorte:
 
 *“Alteração biológica do estado de saúde de um ser, manifestada por um conjunto de sintomas perceptíveis ou não”*
 
-Entretanto, a doença é muito mais uma percepção individual, sobre o próprio sofrimento ou falta de prazer. Alterações biológicas, como descrito pela frase acima, são associadas como ao conceito devido o conhecimento tecnológico que possuímos atualmente, o qual foca principalmente no desenvolvimento de drogas que tratem patologias específicas. A maior parte das pessoas possui esse conceito, quando questionadas sobre. Mas, quando se tenta conceituar saúde, há a tentativa de se opor simplesmente à doença, quando, na realidade, engloba muito mais. A Organização Mundial da Saúde define este conceito como “o estado completo de bem-estar físico, mental e social”. Essa simples frase de nove palavras abre um leque de possibilidades onde o ser humano, assim como eu ou você que está lendo, não se enquadram.
+Entretanto, a doença é muito mais uma percepção individual, sobre o próprio sofrimento ou falta de prazer. Alterações biológicas, como descrito pela frase acima, são associadas como ao conceito devido o conhecimento tecnológico que possuímos atualmente, o qual foca principalmente no desenvolvimento de drogas que tratem patologias específicas. A maior parte das pessoas possui esse conceito, quando questionadas sobre. Mas, quando se tenta conceituar saúde, há a tentativa de se opor simplesmente à doença, quando, na realidade, engloba muito mais. A Organização Mundial da Saúde define este conceito como “o estado completo de bem-estar físico, mental e social”. Essa simples frase de nove palavras abre um leque de possibilidades no qual o ser humano, assim como eu ou você que está lendo, não se enquadram.
 
 Imaginemos algumas situações hipotéticas:
 
@@ -27,7 +27,7 @@ Imaginemos algumas situações hipotéticas:
 
 * Ana é uma senhora de 65 anos, moradora de um bairro nobre. Vive com seu marido, Pedro, e é aposentada. Sempre foi uma pessoa calma, paciente, e se sentia bem a maior parte dos dias. Porém, há algumas semanas, foi diagnosticada com Diabetes, e desde então, precisa tomar medicamentos contínuos;
 
-* André é um jovem de 22 anos, estudante. Mora em um bairro residencial que possui saneamento básico, e não possui nenhuma doença crônica. Se considera saudável, assim como todos que o conhecem. Entretanto, André dorme pouco, pois além dos estudos, também faz um estágio a noite. Isso o leva a se sentir extremamente cansado, física e psicologicamente, bem como a ter crises de ansiedade e estresse.
+* André é um jovem de 22 anos, estudante. Mora em um bairro residencial que possui saneamento básico, e não possui nenhuma doença crônica. Considera-se saudável, assim como todos que o conhecem. Entretanto, André dorme pouco, pois além dos estudos, também faz um estágio a noite. Isso o leva a se sentir extremamente cansado, física e psicologicamente, bem como a ter crises de ansiedade e estresse.
 
 Em todos esses casos, a pessoa não desfruta de saúde em plenitude. Há algo que a limita, algo que à expõe, pois podem se comportar como fatores de risco para, inclusive, problemas mais sérios. E são esses fatores que, por vezes, auxiliam na formação de epidemias.
 
