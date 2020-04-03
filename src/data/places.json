@@ -15,7 +15,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [-25.4284,-49.273325]
+                "coordinates": [-49.273325,-25.4284]
             }
         },
         {
@@ -27,7 +27,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [-23.3355,-46.4129]
+                "coordinates": [-46.4129,-23.3355]
             }
         }
     ]
