@@ -6,7 +6,7 @@ image: Ruas.jpg
 description: "O mundo hoje enfrenta uma pandemia. O que já sabemos sobre?"
 ---
 
-Hoje, 31 de março de 2020, há mais de **[800 mil](https://coronavirus.jhu.edu/map.html)** casos de COVID-19, nome dado à pandemia que atualmente está presente no cotidiano internacional. Diversos países estão em quarentenas completas, com quadros variando de poucos casos no território a milhares de mortos em determinadas cidades. O modo de vida foi alterado abruptamente. Entretanto, este não é o primeiro caso de uma doença que afeta diversos países ao mesmo tempo, muito menos que cause danos, sejam eles humanitários, culturais ou econômicos. Mas, afinal, se já sabemos como ocorrem epidemias, por que elas ainda existem? A COVID-19 é a única existente atualmente? E como podemos combate-las? 
+Hoje, 24 de setembro de 2020, há mais de **[31 milhões](https://coronavirus.jhu.edu/map.html)** de casos de COVID-19, nome dado à pandemia que atualmente está presente no cotidiano internacional. Diversos países estão em quarentenas completas, com quadros variando de poucos casos no território a milhares de mortos em determinadas cidades. O modo de vida foi alterado abruptamente. Entretanto, este não é o primeiro caso de uma doença que afeta diversos países ao mesmo tempo, muito menos que cause danos, sejam eles humanitários, culturais ou econômicos. Mas, afinal, se já sabemos como ocorrem epidemias, por que elas ainda existem? A COVID-19 é a única existente atualmente? E como podemos combate-las? 
 
 <figure class="extend">
     <img src="{{ 'Mascaras.jpg' | media(page) }}" width="752" height="475" alt="Mascaras" style="border: 1px solid #BBB" />
