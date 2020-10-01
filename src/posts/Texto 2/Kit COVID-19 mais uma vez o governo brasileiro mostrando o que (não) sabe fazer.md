@@ -35,7 +35,7 @@ description: "Quais os riscos de automedicação? Fará diferença eu tomar um o
 ​É por isso que a Organização Mundial da Saúde (OMS) recomenda a promoção do uso racional de medicamentos. Infelizmente, isso não é muito seguido no Brasil. O medicamento aqui é tratado como um produto qualquer. A farmácia não passa de um comércio para muitas pessoas (apesar de, legalmente, ser definida como um estabelecimento de saúde). Mesmo medicamentos que possuem um maior controle, por vezes, são utilizados de maneira incorreta (seja devido a falta de conhecimento/comunicação, seja por "profissionais" corruptos).
 
 <figure class="extend">
-    <img src="{{ 'kit-covid.jpg' | media(page) }}" width="752" height="475" alt="Mascaras" style="border: 1px solid #BBB" />
+    <img src="{{ 'kit-covid.jpeg' | media(page) }}" width="752" height="475" alt="Mascaras" style="border: 1px solid #BBB" />
     <figcaption>Alguns locais já distribuíram medicamento para a população</figcaption>
 </figure>
 
