@@ -11,7 +11,7 @@ description: "Podemos sentir ainda hoje os impactos de decisões que nossos ante
 ​	Entretanto, ao se observar detalhes socioeconômicos dentro do país, ainda podemos ver uma "Alemanha dividida", mesmo após décadas de união. E isso gera, até hoje, ressentimentos entre as populações dos "dois países".
 
 <figure class="extend">
-    <img src="{{ 'IDH_Alemanha.png' | media(page) }}" width="752" height="475" alt="Mascaras" style="border: 1px solid #BBB" />
+    <img src="{{ 'IDH_Alemanha.png' | media(page) }}" width="800" height="975" alt="Mascaras" style="border: 1px solid #BBB" />
     <figcaption>Estados alemães por IDH. Note a diferença entre os antigos estados da Alemanha Oriental em relação aos da Alemanha Ocidental</figcaption>
 </figure>
 
