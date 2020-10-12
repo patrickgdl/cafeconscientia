@@ -6,12 +6,6 @@
             <p class="p-note">{{ site.description }}</p>
         </div>
 
-        <p class="footer__item">
-            <strong>&copy;
-                {{ build.timestamp | format('yyyy') }}</strong><br/>
-            <a class="p-name u-url" rel="me" href="{{ site.url }}">Inspired on https://mxb.dev.</a>
-        </p>
-
         <p class="footer__item">    
             <strong>Contato</strong><br/>
             <a href="mailto:{{ author.email | obfuscate | safe }}" rel="me" class="u-email">

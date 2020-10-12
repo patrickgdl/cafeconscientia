@@ -13,11 +13,11 @@ const isProduction = process.env.NODE_ENV === 'production'
 const anchorSlugify = s =>
     encodeURIComponent(
         'h-' +
-            String(s)
-                .trim()
-                .toLowerCase()
-                .replace(/[.,\/#!$%\^&\*;:{}=_`~()]/g, '')
-                .replace(/\s+/g, '-')
+        String(s)
+        .trim()
+        .toLowerCase()
+        .replace(/[.,\/#!$%\^&\*;:{}=_`~()]/g, '')
+        .replace(/\s+/g, '-')
     )
 
 module.exports = function(config) {
@@ -42,7 +42,6 @@ module.exports = function(config) {
 
     // Pass-through files
     config.addPassthroughCopy('src/site.webmanifest')
-    config.addPassthroughCopy('src/keybase.txt')
     config.addPassthroughCopy('src/robots.txt')
     config.addPassthroughCopy('src/favicon.ico')
     config.addPassthroughCopy('src/assets/images')
