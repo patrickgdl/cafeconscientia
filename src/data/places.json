@@ -28,6 +28,18 @@
                 "type": "Point",
                 "coordinates": [-46.40573, -23.35065]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Penha",
+                "country": "Brasil",
+                "description": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-48.6668868, -26.7946678]
+            }
         }
     ]
 }
