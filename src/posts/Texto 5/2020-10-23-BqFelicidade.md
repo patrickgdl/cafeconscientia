@@ -37,6 +37,7 @@ description: "É possível comprar na farmácia os "hormônios" da felicidade?"
 
 ​	É claro, isso não é uma desculpa para usar drogas ilícitas ou mesmo medicamentos de maneira irracional (principalmente pelos efeitos colaterais muito bem conhecidos). Este texto tampouco é uma crítica do uso dessas substâncias, afinal, muitas pessoas necessitam desses medicamentos por razões médicas. O ponto aqui é averiguar como a felicidade é fortemente relacionada com a bioquímica, que pode ser manipulada. Como ela será manipulada, entretanto, é uma decisão que apenas uma pessoa pode tomar: você mesmo.
 
+Fontes e sugestões:
 **[Pílula da Inteligência](https://super.abril.com.br/ciencia/a-pilula-da-inteligencia/)**
 **[Nerdologia - Nootrópicos e Doping Mental](https://www.youtube.com/watch?v=y1trAtccL2w)**
 **[The Role of Dopamine and Its Dysfunction as a Consequence of Oxidative Stress](http://downloads.hindawi.com/journals/omcl/2016/9730467.pdf)**
