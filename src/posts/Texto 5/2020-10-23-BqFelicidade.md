@@ -3,7 +3,7 @@ title: "Bioquímica da Felicidade"
 tags: Farmácia
 slug: bioquímica-felicidade
 image: ritalina.jpg
-description: "É possível comprar na farmácia os "hormônios" da felicidade?"
+description: "É possível comprar na farmácia os 'hormônios' da felicidade?"
 ---
 
 ​	Durante milênios, as maiores preocupações da humanidade foram as mesmas: fome, guerra e pestes. Fosse um europeu, asiático ou americano, em qualquer momento da história, tais pontos faziam parte do seu dia-a-dia, muitas vezes combinados! Todavia, desde a revolução industrial, esses fatores deixaram de ser "ações de demônios", incontroláveis para a humanidade, para se tornarem algo possível de se combater. É claro que essas preocupações não sumiram por completo, afinal temos humanos morrendo de fome em alguns países, guerras ainda são combatidas em diversas partes do mundo, e no dia de hoje, há uma epidemia global de um vírus desconhecido até meses atrás. Mas se essas pessoas morrem por esses fatores, não é por falta de sorte ou por uma maldição demoníaca, mas muitas vezes é por políticos quererem que elas morram. 
