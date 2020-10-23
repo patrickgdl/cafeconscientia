@@ -2,7 +2,7 @@
 title: "Bioquímica da Felicidade"
 tags: Farmácia
 slug: bioquímica-felicidade
-image: 
+image: ritalina.jpg
 description: "É possível comprar na farmácia os "hormônios" da felicidade?"
 ---
 
