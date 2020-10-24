@@ -17,16 +17,16 @@
 
         {% include "meta.njk" %}
         <script>
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-R64472SQ0D"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-R64472SQ0D');
-</script>
             (localStorage.getItem('darkMode') === 'true') && document.documentElement.classList.add('theme-dark');
+        </script>
+                <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-R64472SQ0D"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-R64472SQ0D');
         </script>
     </head>
     <body>
