@@ -3,7 +3,7 @@ title: "A consciência e seu mistério matinal"
 tags: Filosofia
 slug: consciencia
 image: 
-description: ""
+description: 
 ---
 
 *Acordei! Senti fome! Assustei-me com o horário, tomei uma xícara de café, queimei a língua! Corri e ainda peguei o busão! Ufa! que alívio!*
