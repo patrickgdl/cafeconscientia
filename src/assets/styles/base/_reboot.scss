@@ -2,7 +2,6 @@
 //
 // Global resets to common HTML elements and more for easier usage by Bootstrap.
 // Adds additional rules on top of Normalize.css, including several overrides.
-
 // Reset the box-sizing
 //
 // Change from `box-sizing: content-box` to `border-box` so that when you add
@@ -15,7 +14,6 @@
 // http://getbootstrap.com/getting-started/#third-box-sizing.
 //
 // Credit: https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/
-
 html {
     box-sizing: border-box;
     overflow-y: scroll;
@@ -66,7 +64,6 @@ html {
 //
 // Reset HTML, body, and more
 //
-
 html {
     // Sets a specific default `font-size` for user with `rem` type scales.
     font-size: $font-size-root;
@@ -79,10 +76,8 @@ body {
     font-family: $font-family-base;
     font-size: $font-size-base;
     line-height: $line-height;
-
     color: var(--text-color);
     background-color: var(--bg-color);
-
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
 }
@@ -90,12 +85,10 @@ body {
 //
 // Typography
 //
-
 // Remove top margins from headings
 //
 // By default, `<h1>`-`<h6>` all receive top and bottom margins. We nuke the top
 // margin for easier control within type scales as it avoids margin collapsing.
-
 // Abbreviations and acronyms
 abbr[title],
 // Add data-* attribute to help out our tooltip plugin, per https://github.com/twbs/bootstrap/issues/5257
@@ -114,7 +107,6 @@ dl {
 //
 // Code
 //
-
 pre {
     margin: 0;
 }
@@ -122,7 +114,6 @@ pre {
 //
 // Images
 //
-
 img {
     // By default, `<img>`s are `inline-block`. This assumes that, and vertically
     // centers them. This won't apply should you reset them to `block` level.
@@ -136,7 +127,6 @@ img {
 // Fixes "clickability" issue (and more generally, the firing of events such as focus as well)
 // for traditionally non-focusable elements with role="button"
 // see https://developer.mozilla.org/en-US/docs/Web/Events/click#Safari_Mobile
-
 [role='button'] {
     cursor: pointer;
 }
@@ -150,7 +140,6 @@ img {
 // * http://v4-alpha.getbootstrap.com/content/reboot/#click-delay-optimization-for-touch
 // * http://caniuse.com/#feat=css-touch-action
 // * http://patrickhlauke.github.io/touch/tests/results/#suppressing-300ms-delay
-
 a,
 area,
 button,
@@ -166,7 +155,6 @@ textarea {
 //
 // Tables
 //
-
 th {
     // Centered by default, but left-align-ed to match the `td`s below.
     text-align: left;
@@ -175,7 +163,6 @@ th {
 //
 // Forms
 //
-
 label {
     // Allow labels to use `margin` for spacing.
     display: inline-block;
@@ -236,6 +223,7 @@ input[type='search'] {
     background: var(--brand-color-secondary);
     color: #fff;
 }
+
 ::-moz-selection {
     background: var(--brand-color-secondary);
     color: #fff;
