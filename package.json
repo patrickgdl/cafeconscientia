@@ -53,7 +53,7 @@
         "netlify-lambda": "^1.6.3",
         "node-fetch": "^2.3.0",
         "require-dir": "^1.2.0",
-        "sanitize-html": "^1.20.0",
+        "sanitize-html": "^2.3.2",
         "twitter": "^1.7.1",
         "webpack": "^4.41.5",
         "webpack-stream": "^5.2.1",
